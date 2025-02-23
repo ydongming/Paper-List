@@ -4,7 +4,7 @@
 
 We List some papers from Web of Science.
 
-- [Autonomous Vehicles Safety](#Autonomous Vehicles Safety)
+- [Autonomous Vehicles Safety](#Autonomous-Vehicles-Safety)
   - [Safety Guarantee]
 - [Autonomous Vehicles Safety Verification]
 - [Autonomous Vehicles]
@@ -16,3 +16,7 @@ We List some papers from Web of Science.
 ## Autonomous Vehicles Safety
 
 <!-- <details><summary>(Click for details)</summary> -->
+
+<!-- </details> -->
+
+<p align="right">(<a href="#top">back to top</a>)</p>
