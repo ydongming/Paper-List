@@ -177,6 +177,7 @@ We List some papers from Web of Science.
 <!-- <details><summary>(Click for details)</summary> -->
 
 - [[1]](https://ieeexplore.ieee.org/abstract/document/10381696) Agarwal, I., Singh, A., Agarwal, A., Mishra, S., Satapathy, S.K., Cho, S.-B., Prusty, M.R., Mohanty, S.N., 2024. Enhancing Road Safety and Cybersecurity in Traffic Management Systems: Leveraging the Potential of Reinforcement Learning. IEEE ACCESS 12, 9963–9975.
+
 - [[2]](https://www.tandfonline.com/doi/abs/10.1080/24725854.2021.1922785) Aghalari, A., Morshedlou, N., Marufuzzaman, M., Carruth, D., 2021. Inverse reinforcement learning to assess safety of a workplace under an active shooter incident. IISE TRANSACTIONS 53, 1337–1350. 
 - [[3]](https://www.sciencedirect.com/science/article/pii/S2405896323009308) Airaldi, F., De Schutter, B., Dabiri, A., 2023. Learning safety in model-based Reinforcement Learning using MPC and Gaussian Processes. Presented at the IFAC PAPERSONLINE, pp. 5759–5764. 
 - [[4]](https://ieeexplore.ieee.org/abstract/document/10778608) Bejarano, F.P., Brunke, L., Schoellig, A.P., 2025. Safety Filtering While Training: Improving the Performance and Sample Efficiency of Reinforcement Learning Agents. IEEE ROBOTICS AND AUTOMATION LETTERS 10, 788–795.
